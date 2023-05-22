@@ -1,0 +1,15 @@
+E:\Projects\LabAloha\bin\Debug\net7.0\LabAloha.exe
+E:\Projects\LabAloha\bin\Debug\net7.0\LabAloha.deps.json
+E:\Projects\LabAloha\bin\Debug\net7.0\LabAloha.runtimeconfig.json
+E:\Projects\LabAloha\bin\Debug\net7.0\LabAloha.dll
+E:\Projects\LabAloha\bin\Debug\net7.0\LabAloha.pdb
+E:\Projects\LabAloha\obj\Debug\net7.0\LabAloha.csproj.AssemblyReference.cache
+E:\Projects\LabAloha\obj\Debug\net7.0\LabAloha.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\LabAloha\obj\Debug\net7.0\LabAloha.AssemblyInfoInputs.cache
+E:\Projects\LabAloha\obj\Debug\net7.0\LabAloha.AssemblyInfo.cs
+E:\Projects\LabAloha\obj\Debug\net7.0\LabAloha.csproj.CoreCompileInputs.cache
+E:\Projects\LabAloha\obj\Debug\net7.0\LabAloha.dll
+E:\Projects\LabAloha\obj\Debug\net7.0\refint\LabAloha.dll
+E:\Projects\LabAloha\obj\Debug\net7.0\LabAloha.pdb
+E:\Projects\LabAloha\obj\Debug\net7.0\LabAloha.genruntimeconfig.cache
+E:\Projects\LabAloha\obj\Debug\net7.0\ref\LabAloha.dll
